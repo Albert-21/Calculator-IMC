@@ -1,4 +1,7 @@
-# CalculatorIMC
+# Documentación
+ [Visión y Alcance Del Proyecto](https://drive.google.com/file/d/1aw52tMhg_9YrB2C6EhlX19B3ICuXEQ9A/view?usp=sharing)
+ 
+## CalculatorIMC
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
